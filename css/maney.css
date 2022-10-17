@@ -1,0 +1,97 @@
+.main{
+    width: 1000px;
+    height: 600px;
+    
+    float: left;
+
+}
+.one{
+    width: 400px;
+    height: 600px;
+   
+    float: left;
+    margin: 0;
+}.v{
+    width: 180px;
+    height: 270px;
+    background: blue;
+    float: left;
+    margin: 0 10px 0 0;
+}
+.s{
+    width: 200px;
+    height: 270px;
+    background: blue;
+    margin: o 0 0 20px;
+    float: left;
+}
+.u{
+    width: 180px;
+    height: 310px;
+    background: blue;
+    margin-top: 290px;
+}
+.a{
+    width: 199px;
+    height: 197px;
+    background: blue;
+     margin:-308px 0 115px 191px;
+}
+.l{
+    width: 197px;
+    height: 98px;
+    background: blue;
+    margin: -103px 0 0 191px;
+}
+.main2{
+    width: 600px;
+    height: 600px;
+  
+    float: left;
+
+}
+.c{
+    width: 180px;
+    height: 470px;
+    float: left;
+    background: blue;
+}
+.b{
+    width: 394px;
+    height: 120px;
+    float: left;
+    background: blue;
+    margin: 10px 190px 0 0;
+}
+.f1{
+    width: 409px;
+    height: 220px;
+    background: blue;
+    float: left;
+    margin: -599px 0 380px 190px;
+}
+.f{
+    width: 204px;
+    height: 240px;
+    background: blue;
+    float: left;
+    margin: -371px 180px 130px 190px ;
+}
+.b1{
+    width: 194px;
+    height: 370px;
+    background: blue;
+    float: left;
+    margin:-371px 0 0 406px;
+}
+
+
+
+
+
+
+
+
+
+
+
